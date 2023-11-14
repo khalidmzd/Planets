@@ -1,1 +1,2 @@
 This is my first test file in nano. 
+Now I am adding another line in the test file.
